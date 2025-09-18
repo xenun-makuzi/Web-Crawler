@@ -1,0 +1,1 @@
+A python scraper that extracts product data like price,rating ,avalaibilty an stores them in a csv file
